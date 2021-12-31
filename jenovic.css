@@ -1,0 +1,19 @@
+
+nav{background:pink;}
+.logo{font-size:50px;}
+.logo a{text-decoration:none;
+display:flex;
+margin-left:35%;}
+
+.menu ul a{display:inline;
+	margin-left:10%;
+	display-right:25px;
+	font-size:40px;
+text-decoration:none;
+}
+
+img{width:30%;
+height:250px;
+margin-left:5%;
+border :solid 3px pink;
+}
